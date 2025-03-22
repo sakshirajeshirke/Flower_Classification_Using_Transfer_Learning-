@@ -1,8 +1,3 @@
-# Flower_Classification_Using_Transfer_Learning-
-A deep learning-based flower classifier using EfficientNetB0 and Streamlit. Upload a flower image and the app predicts its type (Daisy, Dandelion, Rose, Sunflower, Tulip) with confidence scores and details. Built with transfer learning and an interactive UI.
-
-Here's a clean and complete `README.md` tailored for your project **with no demo mode** and based on your `appy.py` and `Flower_TL.ipynb` files:
-
 ---
 
 # 🌸 Flower Classifier using Transfer Learning & Streamlit
@@ -80,5 +75,3 @@ Built using **transfer learning** with EfficientNetB0 and deployed using a custo
 - UI: Streamlit + CSS
 
 ---
-
-Let me know if you'd like me to generate the actual `README.md` file content you can download directly.
