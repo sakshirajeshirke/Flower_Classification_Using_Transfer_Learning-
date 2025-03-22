@@ -1,0 +1,12 @@
+flask
+torch
+transformers
+datasets
+openai
+streamlit
+numpy
+opencv-python
+tensorflow
+matplotlib
+scikit-learn
+seaborn
