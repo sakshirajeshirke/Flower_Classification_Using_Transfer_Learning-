@@ -75,3 +75,13 @@ Built using **transfer learning** with EfficientNetB0 and deployed using a custo
 - UI: Streamlit + CSS
 
 ---
+## 📷 Screenshot
+![home](https://github.com/user-attachments/assets/4f4712e4-bdab-4705-bb35-71b4a7091178)
+![identify](https://github.com/user-attachments/assets/74636ded-73a5-46ab-b02f-06328c118735)
+![result](https://github.com/user-attachments/assets/bb95ccfe-0b48-47d0-ab5f-68ab2e94fd38)
+![identify3](https://github.com/user-attachments/assets/96ad8bbe-1a01-4fe1-b59e-f4368e65728b)
+![result3](https://github.com/user-attachments/assets/41bc2108-64b1-434a-b368-5f007fb971df)
+
+
+
+
